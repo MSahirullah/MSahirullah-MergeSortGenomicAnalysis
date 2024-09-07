@@ -1,0 +1,24 @@
+.dt-paging .pagination {
+    display: flex !important;
+    justify-content: end !important;
+}
+.dt-paging .pagination a:focus {
+    box-shadow: none !important;
+}
+
+.dt-length select {
+    padding-right: 32px !important;
+    padding-left: 16px !important;
+}
+
+.dt-search {
+    text-align: end;
+}
+
+.dt-container td {
+    text-wrap: wrap;
+}
+
+.text-no-wrap {
+    text-wrap: nowrap !important;
+}
